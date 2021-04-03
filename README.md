@@ -10,7 +10,7 @@
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a  href="https://github.com/hamandakuntz">
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamandakuntz&theme=&show_icons=true&title_color=FFFFFF&bg_color=90,784BA0,784BA0,2B86C5&icon_color=FFFFFF&text_color=FFFFFF&layout=&border_radius=10&custom_title=Languages I've been using 💻&hide_border=true&layout=compact">
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamandakuntz&theme=&show_icons=true&title_color=FFFFFF&bg_color=90,784BA0,784BA0,2B86C5&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10&custom_title=Languages I've been using 💻&hide_border=true">
 </a>
 
 ## Version Control Tools ⚙
