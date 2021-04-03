@@ -19,9 +19,11 @@
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;  
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 &nbsp;
+&nbsp;
 ## Development Tools 🔧
 
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+&nbsp;
 &nbsp;
 ## Reach me out 👇🏼
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamanda-kuntz-1a0866161/)
