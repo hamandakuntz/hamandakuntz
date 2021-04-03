@@ -5,6 +5,8 @@
 - I'm almost graduated in Geology from the Federal University of Rio de Janeiro, but I've always loved learning about technology and programming. 💻
 -  I'm curious about how things work since I was a child and that is why I am at the beginning of the road to becoming a developer. 👩🏻‍💻
 &nbsp;
+&nbsp;
+&nbsp;
 
 <a  href="https://github.com/hamandakuntz">
   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=hamandakuntz&theme=&show_icons=true&title_color=FFFFFF&bg_color=90,784BA0,784BA0,2B86C5&icon_color=F0F2FF&text_color=FFFFFF&border_radius=10&custom_title=My GitHub stats 🚀&hide_border=true">
