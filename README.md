@@ -1,29 +1,26 @@
 # Hello there! 👋🏻
 
-- My name is Hamanda Kuntz, I'm from Brazil and I'm a bootcamper of full-stack web development at [Responde Aí](https://page.respondeai.com.br/bootcamp) ✔
+- 🌱 Since I was a child I liked to learn by myself of how things work
+- 🔭 I’m a very curious person and ready to face changes
+- 👯 I’m looking to join a team where I can collaborate with good and pratical ideas
+- 💬 Ask me about ... Everything you need
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm also a geologist!
 
-- I'm almost graduated in Geology from the Federal University of Rio de Janeiro, but I've always loved learning about technology and programming. 💻
--  I'm curious about how things work since I was a child and that is why I am at the beginning of the road to becoming a developer. 👩🏻‍💻&nbsp;
+### Languages and Tools:
 
-<a  href="https://github.com/hamandakuntz">
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=hamandakuntz&theme=&show_icons=true&title_color=FFFFFF&bg_color=90,784BA0,784BA0,2B86C5&icon_color=F0F2FF&text_color=FFFFFF&border_radius=10&custom_title=My GitHub stats 🚀&hide_border=true">
-</a>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a  href="https://github.com/hamandakuntz">
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamandakuntz&theme=&show_icons=true&title_color=FFFFFF&bg_color=90,784BA0,784BA0,2B86C5&icon_color=FFFFFF&text_color=FFFFFF&border_radius=10&custom_title=Languages I've been using 💻&hide_border=true">
-</a>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://simpleicons.org/icons/typescript.svg"/>][youtube]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
-## Version Control Tools ⚙
-
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;  
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-&nbsp;
-&nbsp;
-## Development Tools 🔧
-
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-&nbsp;
-&nbsp;
-## Reach me out 👇🏼
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamanda-kuntz-1a0866161/)
-](https://www.linkedin.com/in/hamanda-kuntz-1a0866161/)
+<br />
+<br />
