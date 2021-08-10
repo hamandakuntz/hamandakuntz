@@ -1,8 +1,9 @@
 # Hello there! 👋🏻
 
-- 🌱 Since I was a child I liked to learn by myself of how things work
-- 🔭 I’m a very curious person and ready to face changes
-- 👯 I’m looking to join a team where I can collaborate with good and pratical ideas
+- 🛠 Since I was a child I liked to learn by myself of how things work
+- 🌱 Currently increasing my knowledge of TypeScript and TypeORM
+- 🔭 A very curious person and ready to face changes
+- 👯 Looking to join a team where I can collaborate with good and pratical ideas
 - 💬 Ask me about ... Everything you need
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm also a geologist!
